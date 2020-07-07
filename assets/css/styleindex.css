@@ -1,0 +1,36 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/v7ylZxz.jpg");
+    text-align: center;
+    color: white);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+section {
+    color: white;
+}
+.card {
+    background-color: rgba(111, 0, 139, 0.205);
+    color: darkslateblue;
+}
+
+ul {
+    list-style: none;
+}  
+/* unvisited link */
+a:link {
+    color: rgb(47, 0, 255);
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(219, 40, 195);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(47, 0, 255);
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(47, 0, 255);
+  }
